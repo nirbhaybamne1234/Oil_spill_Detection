@@ -1,0 +1,1 @@
+Run the Python pipeline from the project root. Use the generated outputs and metrics in your Jupyter notebook submission. See README.md.
